@@ -107,7 +107,7 @@ All settings can be overridden via environment variables or `.env`:
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `ANTHROPIC_API_KEY` | — | **Required** |
+| `OPENAI_API_KEY` | — | **Required** |
 | `PORT` | `8000` | Server port |
 | `MAX_UPLOAD_SIZE_MB` | `50` | Max PDF size |
 | `CHUNK_SIZE` | `400` | Words per chunk |
